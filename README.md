@@ -16,7 +16,7 @@ I design and build specialty **autonomous personal reconnaissance devices** for 
 
 | ![0](content/scene-01.png) | ![1](content/scene-03.png) | ![2](content/scene-06.png) | ![3](content/scan-01.png)  | 
 | :------------------------: | :------------------------: | :------------------------: | :------------------------: | 
-| ![4](content/scan-04.png)  | ![5](content/scene-02.png) | ![6](content/scene-08.png) | ![7](content/scene-05.png) | 
-| ![8](content/scene-07.png) | ![9](content/scene-09.png) | ![A](content/scene-04.png) | ![B](content/scene-10.png) | 
+| ![4](content/scene-04.png) | ![5](content/scene-02.png) | ![6](content/scene-08.png) | ![7](content/scene-05.png) | 
+| ![8](content/scene-07.png) | ![9](content/scene-09.png) | ![A](content/scan-04.png)  | ![B](content/scene-10.png) | 
 
 While many of the devices I build are *ad hoc* designs for custom applications (please [contact me](mailto:chris@cpknight.io) to discuss your specific requirements), I have my range of “Paro” (*Personal Autonomous Reconnaissance Observer*) devices available off-the-shelf through speciality distributors. <!-- in the United States, the United Kingdom, France, Australia, and Israel. -->
