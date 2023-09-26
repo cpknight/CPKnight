@@ -18,6 +18,6 @@
 | ![8](content/scene-07.png) | ![9](content/scan-02.png)  | ![A](content/scene-04.png) | ![B](content/scene-10.png) | 
 | ![C](content/scan-04.png)  | ![D](content/scene-08.png) | ![E](content/scene-09.png) | ![F](content/scan-06.png)  | 
 
-I design and build specialty autonomous reconnaissance and surveillance devices for private clients. My designs incorporate proprietary computer vision, machine learning, and artificial intelligence techniques to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments.
+I design and build specialty **autonomous personal reconnaissance devices** for private clients. My designs incorporate proprietary computer vision, machine learning, and artificial intelligence techniques to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments.
 
-While many of the devices I build are ad hoc designs for custom applications (please contact me to discuss your specific requirements), I have my range of “Paro” (Personal Autonomous Reconnaissance Observer) devices available off-the-shelf through speciality distributors. <!-- in the United States, the United Kingdom, France, Australia, and Israel. -->
+While many of the devices I build are *ad hoc* designs for custom applications (please [contact me](mailto:chris@cpknight.io) to discuss your specific requirements), I have my range of “Paro” (*Personal Autonomous Reconnaissance Observer*) devices available off-the-shelf through speciality distributors. <!-- in the United States, the United Kingdom, France, Australia, and Israel. -->
