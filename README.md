@@ -12,7 +12,7 @@
                                                           \____\/
 ``` -->                         
 
-I design and build specialty **personal autonomous reconnaissance devices** for private customers. My designs incorporate proprietary computer vision, machine learning, and artificial intelligence techniques to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments.
+I design and build specialty **personal autonomous reconnaissance devices** for private customers. My designs incorporate custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments.
 
 | ![0](content/scene-01.png) | ![1](content/scene-03.png) | ![2](content/scene-06.png) | ![3](content/scan-01.png)  | 
 | :------------------------: | :------------------------: | :------------------------: | :------------------------: | 
