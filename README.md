@@ -23,7 +23,7 @@ I design and build specialty **personal autonomous reconnaissance devices** for 
 
 ### :technologist: MY TECH:
 
-<img src=content/cpknight-tech-overview-123.png width=200 align=right>
+<img src=content/cpknight-tech-overview-123.png width=450 align=right>
 
 The devices that I make consist of three main parts: **1**- **reconnaissance algorithms**, **2**- **autonomous devices**, and **3**- their **means of conveyance**.
 
