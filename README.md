@@ -23,9 +23,11 @@ I design and build specialty **personal autonomous reconnaissance devices** for 
 
 ### :technologist: MY TECH:
 
-The devices that I make consist of three main parts: **1**- **reconnaissance algorithms**, **2**- **autonomous devices**, and **3**- their means of **conveyance**.
+<img src=content/cpknight-tech-overview-123.png width=200 align=right>
 
-1. At the core of my devices are the **reconnaissance algorithms**. These take information from the outside world (such as "I observe an airplane" and "that airplane is moving toward 51.112, -112.324 at 105 knots.") and then draw specific conclusions about it (such as "that aircraft will intercept this position in 23 seconds" or "descend and move to the right immediately to avoid a collision").
+The devices that I make consist of three main parts: **1**- **reconnaissance algorithms**, **2**- **autonomous devices**, and **3**- their **means of conveyance**.
+
+1. At the core of my devices are the **reconnaissance algorithms**. These take information from the outside world (such as "_I observe an airplane_" or "_that airplane is moving toward 51.112,-112.324 at 105 knots_") and then draw specific conclusions about it (such as "_that aircraft will intercept this position in 23 seconds_" or "_descend and move to the right immediately to avoid a collision_"). 
 
 2. Lorem Ipsum.
 
