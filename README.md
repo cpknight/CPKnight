@@ -12,6 +12,8 @@
                                                           \____\/
 ``` -->                         
 
+### :information_source: WHAT I DO...
+
 I design and build specialty **personal autonomous reconnaissance devices** for private customers. My designs incorporate custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.
 
 | ![0](content/0.png) | ![1](content/1.png) | ![2](content/2.png) | ![3](content/3.png) | 
