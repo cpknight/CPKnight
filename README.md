@@ -12,7 +12,7 @@
                                                           \____\/
 ``` -->                         
 
-### :information_source: WHAT I DO...
+### :hammer_and_wrench: WHAT I MAKE:
 
 I design and build specialty **personal autonomous reconnaissance devices** for private customers. My designs incorporate custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.
 
@@ -20,5 +20,17 @@ I design and build specialty **personal autonomous reconnaissance devices** for 
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: | 
 | ![4](content/4.png) | ![5](content/5.png) | ![6](content/6.png) | ![7](content/7.png) | 
 | ![8](content/8.png) | ![9](content/9.png) | ![A](content/A.png) | ![B](content/B.png) | 
+
+### :technologist: MY TECH:
+
+The devices that I make consist of three main parts: **1**- **reconnaissance algorithms**, **2**- **autonomous devices**, and **3**- their means of **conveyance**.
+
+1. At the core of my devices are the **reconnaissance algorithms**. These take information from the outside world (such as "I observe an airplane" and "that airplane is moving toward 51.112, -112.324 at 105 knots.") and then draw specific conclusions about it (such as "that aircraft will intercept this position in 23 seconds" or "descend and move to the right immediately to avoid a collision").
+
+2. Lorem Ipsum.
+
+3. Dolor Sit.
+
+### :information_source: FOR MORE INFORMATION:
 
 While many of the devices I build are *ad hoc* designs for custom applications (please [contact me](mailto:chris@cpknight.io) to discuss your specific requirements), I have my range of “[Paro](https://github.com/cpknight/Paro)” (*Personal Autonomous Reconnaissance Observer*) devices available off-the-shelf through speciality distributors. <!-- in the United States, the United Kingdom, France, Australia, and Israel. -->
