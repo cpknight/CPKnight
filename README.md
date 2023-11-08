@@ -25,7 +25,7 @@ I design and build specialty **personal autonomous reconnaissance devices** for 
 
 <img src=content/cpknight-tech-overview-123.png width=450 align=right>
 
-The devices that I make consist of three main parts: (**1**)- **reconnaissance algorithms**, (**2**)- **autonomous devices**, and (**3**)- their **means of conveyance**.
+The devices that I make consist of three main parts: :one: **reconnaissance algorithms**, :two: **autonomous devices**, and :three: their **means of conveyance**.
 
 1. At the core of my devices are **reconnaissance algorithms**. These take inputs from various sensors to make observations of the outside world (such as "_I observe an airplane_" or "_that airplane is moving toward 51.112,-112.324 at 105 knots_") and then draw specific inferences and conclusions (such as "_from observations, I am confident that I am located at 51.112,-112.324_" or "_descend and move to the right immediately to avoid a collision_"). I create, adapt, and improve various different types of algorithms for these purposes, with much of my recent work focusing on **convolutional neural networks** that process vertical **aerial imagery**. However, algorithms can be simple or complex in and of themselves - it is the way in which these algorithms are layered together that yield accurate and useful insights about the world. I generally implement these algorithms as firmware to be integrated in low-cost hardware devices.
 
