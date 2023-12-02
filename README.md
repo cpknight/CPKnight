@@ -16,13 +16,6 @@
 
 I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;*Edge AI*&rdquo; devices. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.  
 
-For more information about what **Edge AI** is, I recommend the following books and articles:
-
-- [Daniel Situnayake](https://github.com/dansitu) &amp; [Jenny Plunkett](https://github.com/jennyplunkett): :closed_book: **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
-- [https://wikipedia.org](Wikipedia): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
-- Lorem
-
-
 | ![0](content/0.png) | ![1](content/1.png) | ![2](content/2.png) | ![3](content/3.png) | 
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: | 
 | ![4](content/4.png) | ![5](content/5.png) | ![6](content/6.png) | ![7](content/7.png) | 
@@ -43,3 +36,10 @@ The devices that I make involve three main things &ndash; :one: **reconnaissance
 ### :information_source: FOR MORE INFORMATION &ndash;
 
 While many of the devices I build are *ad hoc* designs for custom applications (please [contact me](mailto:chris@cpknight.io) to discuss your specific requirements), I have my range of “[Paro](https://github.com/cpknight/Paro)” (*Personal Autonomous Reconnaissance Observer*) devices available off-the-shelf through speciality distributors. <!-- in the United States, the United Kingdom, France, Australia, and Israel. -->
+
+For more information about what **Edge AI** is, I recommend the following books and articles:
+
+- [Daniel Situnayake](https://github.com/dansitu) &amp; [Jenny Plunkett](https://github.com/jennyplunkett): :closed_book: **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
+- [https://wikipedia.org](Wikipedia): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
+- Lorem
+
