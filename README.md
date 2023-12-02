@@ -1,4 +1,4 @@
-:hammer_and_wrench: WHAT I MAKE:
+:hammer_and_wrench: WHAT I MAKE
 
 ### :information_source: MORE INFO ###
 
