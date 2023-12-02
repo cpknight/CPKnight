@@ -39,7 +39,9 @@ While many of the devices I build are *ad hoc* designs for custom applications (
 
 For more information about what **Edge AI** is, I recommend the following books and articles:
 
+- [Wikipedia](https://wikipedia.org): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
 - [Daniel Situnayake](https://github.com/dansitu) &amp; [Jenny Plunkett](https://github.com/jennyplunkett): :closed_book: **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
-- [https://wikipedia.org](Wikipedia): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
-- Lorem
+- [](): :page_facing_up: **[]()**
+- [](): :page_facing_up: **[]()**
+- [](): :page_facing_up: **[]()**
 
