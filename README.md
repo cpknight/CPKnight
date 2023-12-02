@@ -41,7 +41,7 @@ For more information about what **Edge AI** is, I recommend the following books 
 
 - [Wikipedia](https://wikipedia.org): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
 - [Daniel Situnayake](https://github.com/dansitu) &amp; [Jenny Plunkett](https://github.com/jennyplunkett): :closed_book: **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
-- [](): :page_facing_up: **[]()**
+- [Tiffany Yeung/NVIDA](https://blogs.nvidia.com/blog/author/tiffanyyeung/): :page_facing_up: **[What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/what-is-edge-ai/)**
 - [](): :page_facing_up: **[]()**
 - [](): :page_facing_up: **[]()**
 
