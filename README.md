@@ -19,7 +19,7 @@ I design and build specialty **personal autonomous reconnaissance devices** &nda
 For more information about what **Edge AI** is, I recommend the following books and articles:
 
 - [Daniel Situnayake](https://github.com/dansitu) &amp; [Jenny Plunkett](https://github.com/jennyplunkett): :closed_book: **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
-- :page_facing_up: Wikipedia: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
+- [https://wikipedia.org](Wikipedia): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
 - Lorem
 
 
