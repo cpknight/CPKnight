@@ -39,9 +39,9 @@ While many of the devices I build are *ad hoc* designs for custom applications (
 
 For more information about what **Edge AI** is, I recommend the following books and articles:
 
-- [Wikipedia](https://wikipedia.org): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
+- [IBM](https://www.ibm.com/): :page_facing_up: **[What is edge AI?](https://www.ibm.com/topics/edge-ai)**
+- [Ellen Glover/Built In](https://builtin.com/authors/ellen-glover): :page_facing_up: **[What is Edge AI?](https://builtin.com/artificial-intelligence/edge-ai)**
 - [Daniel Situnayake](https://github.com/dansitu) &amp; [Jenny Plunkett](https://github.com/jennyplunkett): :closed_book: **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
 - [Tiffany Yeung/NVIDA](https://blogs.nvidia.com/blog/author/tiffanyyeung/): :page_facing_up: **[What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/what-is-edge-ai/)**
-- [](): :page_facing_up: **[]()**
-- [](): :page_facing_up: **[]()**
-
+- [Wikipedia](https://wikipedia.org): :bookmark_tabs: **[Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)**
+- [Wikipedia](https://wikipedia.org): :bookmark_tabs: **[Edge Computing](https://en.wikipedia.org/wiki/Edge_computing)**
