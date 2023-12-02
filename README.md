@@ -14,7 +14,7 @@
 
 ### :hammer_and_wrench: WHAT I MAKE:
 
-I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;Edge AI&rdquo; devices. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.
+I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;*Edge AI*&rdquo; devices. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.
 
 For more information about what **Edge AI** is, I recommend the following books and articles:
 - :book: [Daniel Situnayake](https://github.com/dansitu) &amp; [Jerry Plunkett](https://github.com/jennyplunkett)) **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
