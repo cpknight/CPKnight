@@ -1,10 +1,3 @@
-:hammer_and_wrench: WHAT I MAKE
-
-### :information_source: MORE INFO ###
-
-
-
-
 <!-- ```
       _________    _________    ____  ___                __                 ___           ___
      /  ______/\  /  ____  /\  /   /\/  /\              /_/\               /  /\         /  /\ 
@@ -19,7 +12,7 @@
                                                           \____\/
 ``` -->                         
 
-### :wrench: WHAT I MAKE:
+### :wrench: WHAT I MAKE
 
 I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;*Edge AI*&rdquo; devices. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.  
 
@@ -35,7 +28,7 @@ For more information about what **Edge AI** is, I recommend the following books 
 | ![4](content/4.png) | ![5](content/5.png) | ![6](content/6.png) | ![7](content/7.png) | 
 | ![8](content/8.png) | ![9](content/9.png) | ![A](content/A.png) | ![B](content/B.png) | 
 
-### :technologist: MY TECH:
+### :technologist: MY TECH
 
 <img src=content/cpknight-tech-overview-123.png width=450 align=right>
 
