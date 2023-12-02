@@ -17,7 +17,7 @@
 I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;Edge AIl&rquo; devices. My designs incorporate custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.
 
 For more information about what **Edge AI** is, I recommend the following books and articles:
-- :book: [AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/) ([Daniel Situnayake](https://github.com/dansitu) &amp; [Jerry Plunkett](https://github.com/jennyplunkett))  
+- [AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/) ([Daniel Situnayake](https://github.com/dansitu) &amp; [Jerry Plunkett](https://github.com/jennyplunkett))  
 - Lorem
 - 
 
