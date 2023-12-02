@@ -1,4 +1,31 @@
+<!-- ```
+      _________    _________    ____  ___                __                 ___           ___
+     /  ______/\  /  ____  /\  /   /\/  /\              /_/\               /  /\         /  /\ 
+    /  /\_____\/ /  /___/ / / /   / /  / /              \_\/              /  / /     ___/  /_/
+   /  / /       /  ______/ / /    \/  / /  _____      ___    ______      /  /_/___  /__   ___/\
+  /  / /       /  /\_____\/ /  _     / /  /     \    /  /\  /  __  \    /  ___   /\ \_/  /\__\/
+ /  /_/____   /  / /       /  /\\    \/  /  /\  /\  /  / / /  /_/  /|  /  /\ /  / /  /  / /  __    __    __
+/_________/\ /__/ /       /__/ / \___/\ /__/ /_/ / /__/ / /_____  / / /__/ //__/ /  /__/ /  /_/\  /_/\  /_/\
+\_________\/ \__\/        \__\/   \__\/ \__\/\_\/  \__\/  \____/ / /  \__\/ \__\/   \__\/   \_\/  \_\/  \_\/
+                                                           ___/ / /
+                                                          /____/ /
+                                                          \____\/
+``` -->                         
 
+### :hammer_and_wrench: WHAT I MAKE:
+
+I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;Edge AIl&rquo; devices. My designs incorporate custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.
+
+For more information about what **Edge AI** is, I recommend the following books and articles:
+- [AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/) ([Daniel Situnayake](https://github.com/dansitu) &amp; [Jerry Plunkett](https://github.com/jennyplunkett))  
+- Lorem
+- 
+
+
+| ![0](content/0.png) | ![1](content/1.png) | ![2](content/2.png) | ![3](content/3.png) | 
+| :-----------------: | :-----------------: | :-----------------: | :-----------------: | 
+| ![4](content/4.png) | ![5](content/5.png) | ![6](content/6.png) | ![7](content/7.png) | 
+| ![8](content/8.png) | ![9](content/9.png) | ![A](content/A.png) | ![B](content/B.png) | 
 
 ### :technologist: MY TECH:
 
