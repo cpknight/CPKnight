@@ -28,11 +28,11 @@ For more information about what **Edge AI** is, I recommend the following books 
 | ![4](content/4.png) | ![5](content/5.png) | ![6](content/6.png) | ![7](content/7.png) | 
 | ![8](content/8.png) | ![9](content/9.png) | ![A](content/A.png) | ![B](content/B.png) | 
 
-### :technologist: MY TECH
+### :technologist: MY TECH &ndash;
 
 <img src=content/cpknight-tech-overview-123.png width=450 align=right>
 
-The devices that I make consist of three main parts: :one: **reconnaissance algorithms**, :two: **autonomous devices**, and :three: their **means of conveyance**.
+The devices that I make involve three main things &ndash; :one: **reconnaissance algorithms**, :two: **autonomous devices**, and :three: their **means of conveyance**.
 
 1. At the core of my devices are **reconnaissance algorithms**. These take inputs from various sensors to make observations of the outside world (such as "_I observe an airplane_" or "_that airplane is moving toward 51.112,-112.324 at 105 knots_") and then draw specific inferences and conclusions (such as "_from observations, I am confident that I am located at 51.112,-112.324_" or "_descend and move to the right immediately to avoid a collision_"). I create, adapt, and improve various different types of algorithms for these purposes, with much of my recent work focusing on **convolutional neural networks** that process vertical **aerial imagery**. However, algorithms can be simple or complex in and of themselves - it is the way in which these algorithms are layered together that yield accurate and useful insights about the world. I generally implement these algorithms as firmware to be integrated in low-cost hardware devices.
 
@@ -40,6 +40,6 @@ The devices that I make consist of three main parts: :one: **reconnaissance algo
 
 3. My autonomous devices are pretty useful observers, but they can't move around the world on their own - they need a **means of conveyance** if they are to get around. For this reason, I make protective enclosures and adapters that allow the devices to be worn or carried by their owners, protected in remote locations, or affixed to a vehicle or robot (such as light aircraft, aerostats, parachutes, or drones). Depending on the application, these enclosures and adapters can provide extra power for the devices (such as with solar panels), extra protection in certain environments, or integrate directly with their vehicle or robot to help with things like navigation or communication. 
 
-### :information_source: FOR MORE INFORMATION:
+### :information_source: FOR MORE INFORMATION &ndash;
 
 While many of the devices I build are *ad hoc* designs for custom applications (please [contact me](mailto:chris@cpknight.io) to discuss your specific requirements), I have my range of “[Paro](https://github.com/cpknight/Paro)” (*Personal Autonomous Reconnaissance Observer*) devices available off-the-shelf through speciality distributors. <!-- in the United States, the United Kingdom, France, Australia, and Israel. -->
