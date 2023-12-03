@@ -39,8 +39,8 @@ While many of the devices I build are *ad hoc* designs for custom applications (
 
 For more information about what **Edge AI** is, I recommend the following books and articles:
 
-- [Jon Y/Asianometry](https://substack.com/profile/113937-jon-y) :tv: **[The Hardtradeoffs of Edge AI Hardware](https://www.youtube.com/watch?v=DAPgDuw1uZM)**
 - [Jon Y/Asianometry](https://substack.com/profile/113937-jon-y) :page_facing_up: **[The Hard Problems of Edge AI Hardware](https://www.asianometry.com/p/the-hard-problems-of-edge-ai-hardware)**
+- [Jon Y/Asianometry](https://substack.com/profile/113937-jon-y) :tv: **[The Hard Tradeoffs of Edge AI Hardware](https://www.youtube.com/watch?v=DAPgDuw1uZM)**
 - [Daniel Situnayake](https://github.com/dansitu) &amp; [Jenny Plunkett](https://github.com/jennyplunkett): :closed_book: **[AI at the Edge](https://learning.oreilly.com/library/view/ai-at-the/9781098120191/)**  
 - [Ellen Glover/Built In](https://builtin.com/authors/ellen-glover): :page_facing_up: **[What is Edge AI?](https://builtin.com/artificial-intelligence/edge-ai)**
 - [Tiffany Yeung/NVIDA](https://blogs.nvidia.com/blog/author/tiffanyyeung/): :page_facing_up: **[What Is Edge AI and How Does It Work?](https://blogs.nvidia.com/blog/what-is-edge-ai/)**
