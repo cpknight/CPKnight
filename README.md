@@ -33,6 +33,22 @@ The devices that I make involve three main things &ndash; :one: **reconnaissance
 
 3. My autonomous devices are pretty useful observers, but they can't move around the world on their own - they need a **means of conveyance** if they are to get around. For this reason, I make protective enclosures and adapters that allow the devices to be worn or carried by their owners, protected in remote locations, or affixed to a vehicle or robot (such as light aircraft, aerostats, parachutes, or drones). Depending on the application, these enclosures and adapters can provide extra power for the devices (such as with solar panels), extra protection in certain environments, or integrate directly with their vehicle or robot to help with things like navigation or communication. 
 
+### :card_file_box: MY PROJECTS &ndash;
+
+A summary of the projects that I've worked on in the past, or am working on at the moment, for the design, development, and manufacture of these devices:
+
+| Project | Summary | Status | 
+| :------ | :------ | :----: |
+| `Ain` | :three: Prototype data-capture devices from freefall parachutes. | `Superceded` |
+| `Alpes` | :three: Prototype conveyance structure for freefall devices. | `Superceded` |
+| `Aube` | :three: Protype guided freefall device conveyance. | `Superceded` |
+| `Aveyron` | :three: Flying wing and quadcopter device conveyances. | `Active` |
+| `Beaufort` | :three: Parachute design, development, and manufacture. | `Active` |
+| `Cantal` | :three: Protective enclosure and fixef mounting system for air and ground deployments. | `Active` |
+| `Garonne` | :one: Software and hardware architectures for autonomous devices. | `Active` |
+| `Sarthe` | :one: Convolutional neural networks for vertical and high oblique imagery. | `Active` |
+| `Vosges` | :two: Personal autonomous reconnaissance observer device design and manufacturing. | `Active` | 
+
 ### :information_source: FOR MORE INFORMATION &ndash;
 
 While many of the devices I build are *ad hoc* designs for custom applications (please [contact me](mailto:chris@cpknight.io) to discuss your specific requirements), I have my range of “[Paro](https://github.com/cpknight/Paro)” (*Personal Autonomous Reconnaissance Observer*) devices available off-the-shelf through speciality distributors. <!-- in the United States, the United Kingdom, France, Australia, and Israel. -->
