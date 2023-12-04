@@ -14,7 +14,7 @@
 
 ### :wrench: WHAT I MAKE &ndash; 
 
-I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;*Edge AI*&rdquo; devices, but are also designed for completely-disconnected operation. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.  
+I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;*Edge AI*&rdquo; devices, but are also designed for completely-disconnected, autonomous operations. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) operations in remote and harsh environments, including from aerial vehicles.  
 
 | ![0](content/0.png) | ![1](content/1.png) | ![2](content/2.png) | ![3](content/3.png) | 
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: | 
