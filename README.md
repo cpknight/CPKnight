@@ -44,7 +44,7 @@ A summary of the projects that I've worked on in the past, or am working on at t
 | `Aube` | :three: Protype guided freefall device conveyance. | `Superceded` |
 | `Aveyron` | :three: Flying wing and quadcopter device conveyances. | `Active` |
 | `Beaufort` | :three: Parachute design, development, and manufacture. | `Active` |
-| `Cantal` | :three: Protective enclosure and fixef mounting system for air and ground deployments. | `Active` |
+| `Cantal` | :three: Protective enclosure and fixed mounting system for air and ground deployments. | `Active` |
 | `Garonne` | :one: Software and hardware architectures for autonomous devices. | `Active` |
 | `Sarthe` | :one: Convolutional neural networks for vertical and high oblique imagery. | `Active` |
 | `Vosges` | :two: Personal autonomous reconnaissance observer device design and manufacturing. | `Active` | 
