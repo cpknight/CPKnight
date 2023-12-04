@@ -42,7 +42,7 @@ A summary of the projects that I've worked on in the past, or am working on at t
 | `Ain` | :three: Prototype data-capture devices from freefall parachutes. | `Superceded` |
 | `Alpes` | :three: Prototype conveyance structure for freefall devices. | `Superceded` |
 | `Aube` | :three: Protype guided freefall device conveyance. | `Superceded` |
-| `Aveyron` | :three: Flying wing and quadcopter device conveyances. | `Active` |
+| `Aveyron` | :three: Reference aerial conveyance platforms &ndash; flying wing and quadcopter. | `Active` |
 | `Beaufort` | :three: Parachute design, development, and manufacture. | `Active` |
 | `Cantal` | :three: Protective enclosure and fixed mounting system for air and ground deployments. | `Active` |
 | `Garonne` | :one: Algorthims, software, firmware and hardware architectures for autonomous devices. | `Active` |
