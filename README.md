@@ -47,7 +47,8 @@ A summary of the projects that I've worked on in the past, or am working on at t
 | `Cantal` | :three: Protective enclosure and fixed mounting system for air and ground deployments. | `Active` |
 | `Garonne` | :one: Algorthims, software, firmware and hardware architectures for autonomous devices. | `Active` |
 | `Sarthe` | :one: Convolutional neural networks for vertical and high oblique imagery. | `Active` |
-| `Vosges` | :two: Personal autonomous reconnaissance observer device design and manufacturing. | `Active` | 
+| `Vosges` | :two: Personal autonomous reconnaissance observer device design and manufacturing. | `Active` |
+| `Yonne` | :two: Portable autonomous GNSS clock. | `Active` |
 
 ### :information_source: FOR MORE INFORMATION &ndash;
 
