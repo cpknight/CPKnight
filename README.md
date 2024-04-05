@@ -12,7 +12,7 @@
                                                           \____\/
 ``` -->                         
 
-### :wrench: WHAT I MAKE &ndash; 
+### :technologist: MY TECH &ndash; :wrench: WHAT I MAKE &ndash; 
 
 I design and build low-cost autonomous sensor payload packages that attach to aerial drones, as well as related accessories. 
 
@@ -24,7 +24,7 @@ I design and build low-cost autonomous sensor payload packages that attach to ae
 | ![4](content/4.png) | ![5](content/5.png) | ![6](content/6.png) | ![7](content/7.png) | 
 | ![8](content/8.png) | ![9](content/9.png) | ![A](content/A.png) | ![B](content/B.png) | -->
 
-### :technologist: MY TECH &ndash;
+<!-- ### :technologist: MY TECH &ndash; -->
 
 <!-- 
 <img src=content/cpknight-tech-overview-123.png width=450 align=right>
