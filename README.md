@@ -12,7 +12,7 @@
                                                           \____\/
 ``` -->                         
 
-### :technologist: MY TECH &ndash; :wrench: WHAT I MAKE &ndash; 
+### :technologist: MY TECH / :wrench: WHAT I MAKE &ndash; 
 
 I design and build low-cost autonomous sensor payload packages that attach to aerial drones, as well as related accessories. 
 
