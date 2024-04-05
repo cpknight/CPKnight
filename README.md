@@ -14,15 +14,19 @@
 
 ### :wrench: WHAT I MAKE &ndash; 
 
-I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;*Edge AI*&rdquo; devices, but are also designed for completely-disconnected, autonomous operations. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles.  
+I design and build low-cost autonomous sensor payload packages that attach to aerial drones, as well as related accessories. 
 
+<!-- I design and build specialty **personal autonomous reconnaissance devices** &ndash; these are embedded systems that are often described as &ldquo;*Edge AI*&rdquo; devices, but are also designed for completely-disconnected, autonomous operations. My designs incorporate both off-the-shelf and custom hardware, computer vision, machine learning, and artificial intelligence components to enable autonomous intelligence, surveillance, and reconnaissance (ISR) activities in remote and harsh environments, including from aerial vehicles. -->
+
+<!-- 
 | ![0](content/0.png) | ![1](content/1.png) | ![2](content/2.png) | ![3](content/3.png) | 
 | :-----------------: | :-----------------: | :-----------------: | :-----------------: | 
 | ![4](content/4.png) | ![5](content/5.png) | ![6](content/6.png) | ![7](content/7.png) | 
-| ![8](content/8.png) | ![9](content/9.png) | ![A](content/A.png) | ![B](content/B.png) | 
+| ![8](content/8.png) | ![9](content/9.png) | ![A](content/A.png) | ![B](content/B.png) | -->
 
 ### :technologist: MY TECH &ndash;
 
+<!-- 
 <img src=content/cpknight-tech-overview-123.png width=450 align=right>
 
 The devices that I make involve three main things &ndash; :one: **reconnaissance algorithms**, :two: **autonomous devices**, and :three: their **means of conveyance**.
@@ -32,6 +36,8 @@ The devices that I make involve three main things &ndash; :one: **reconnaissance
 2. The **autonomous devices** that I build are hardware and firmware assemblies designed to autonomously make observations about their surroundings and then communicate those observations back to their (human) owner in a timely and convenient manner. Autonomous devices are independent and self-suficient, and can be placed anywhere that their owners see fit - once a device is configured for its particular reconnaissance "_mission_", it continues to make and communicate its observations until its owner tells it otherwise. My focus is on building low-cost, lightweight devices that can be used in a variety of environments (including, or perhaps _especially_, harsh environments) in order to augument the abilities of their owners. These are cheap enough to be expendible, but durable and flexible enough to be used for a long time in a variety of different situations.
 
 3. My autonomous devices are pretty useful observers, but they can't move around the world on their own - they need a **means of conveyance** if they are to get around. For this reason, I make protective enclosures and adapters that allow the devices to be worn or carried by their owners, protected in remote locations, or affixed to a vehicle or robot (such as light aircraft, aerostats, parachutes, or drones). Depending on the application, these enclosures and adapters can provide extra power for the devices (such as with solar panels), extra protection in certain environments, or integrate directly with their vehicle or robot to help with things like navigation or communication. 
+
+-->
 
 ### :card_file_box: MY PROJECTS &ndash;
 
