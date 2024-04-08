@@ -39,7 +39,7 @@ The devices that I make involve three main things &ndash; :one: **reconnaissance
 A summary of the projects that I've worked on in the past, or am working on at the moment, for the design, development, and manufacture of these devices:
 
 | Project | Type | Summary | Status | 
-| :------ | :--- | :------ | :----: |
+| :------ | :--: | :------ | :----: |
 | `Ain` | :three: | Prototype data-capture freefall parachute devices. | `Superceded` |
 | `Alpes` | :three: | Prototype conveyance structure for freefall devices. | `Superceded` |
 | `Aube` | :three: | Protype guided freefall device conveyance. | `Superceded` |
