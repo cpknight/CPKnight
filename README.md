@@ -38,18 +38,18 @@ The devices that I make involve three main things &ndash; :one: **reconnaissance
 
 A summary of the projects that I've worked on in the past, or am working on at the moment, for the design, development, and manufacture of these devices:
 
-| Project | Summary | Status | 
-| :------ | :------ | :----: |
-| `Ain` | :three: Prototype data-capture devices from freefall parachutes. | `Superceded` |
-| `Alpes` | :three: Prototype conveyance structure for freefall devices. | `Superceded` |
-| `Aube` | :three: Protype guided freefall device conveyance. | `Superceded` |
-| `Aveyron` | :three: Reference aerial conveyance platforms &ndash; flying wing and quadcopter. | `Active` |
-| `Beaufort` | :three: Parachute design, development, and manufacture. | `Active` |
-| `Cantal` | :three: Protective enclosure and fixed mounting system for air and ground deployments. | `Active` |
-| `Garonne` | :one: Algorthims, software, firmware and hardware architectures for autonomous devices. | `Active` |
-| `Sarthe` | :one: Convolutional neural networks for vertical and high oblique imagery. | `Active` |
-| `Vosges` | :two: Personal autonomous reconnaissance observer device design and manufacturing. | `Active` |
-| `Yonne` | :two: Portable autonomous GNSS clock. | `Active` |
+| Project | Type | Summary | Status | 
+| :------ | :--- | :------ | :----: |
+| `Ain` | :three: | Prototype data-capture freefall parachute devices. | `Superceded` |
+| `Alpes` | :three: | Prototype conveyance structure for freefall devices. | `Superceded` |
+| `Aube` | :three: | Protype guided freefall device conveyance. | `Superceded` |
+| `Aveyron` | :three: | Reference aerial conveyance platforms &ndash; flying wing and quadcopter. | `Active` |
+| `Beaufort` | :three: | Parachute design, development, and manufacture. | `Active` |
+| `Cantal` | :three: | Protective enclosure and fixed mounting system for air and ground deployments. | `Active` |
+| `Garonne` | :one: | Algorthims, software, firmware and hardware architectures for autonomous devices. | `Active` |
+| `Sarthe` | :one: | Convolutional neural networks for vertical and high oblique imagery. | `Active` |
+| `Vosges` | :two: | Personal autonomous reconnaissance observer device design and manufacturing. | `Active` |
+| `Yonne` | :two: | Autonomous GNSS clock. | `Active` |
 
 ### :information_source: SELECTED REFERENCES &ndash;
 
