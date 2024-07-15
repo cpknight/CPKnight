@@ -34,6 +34,7 @@ The devices that I make involve three main things &ndash; :one: **reconnaissance
 
 :three: My autonomous devices are pretty useful observers, but they can't move around the world on their own - they need a **means of conveyance** if they are to get around. For this reason, I make protective enclosures and adapters that allow the devices to be worn or carried by their owners, protected in remote locations, or affixed to a vehicle or robot (such as light aircraft, aerostats, parachutes, or drones). Depending on the application, these enclosures and adapters can provide extra power for the devices (such as with solar panels), extra protection in certain environments, or integrate directly with their vehicle or robot to help with things like navigation or communication. 
 
+<!--
 ### :card_file_box: MY PROJECTS &ndash;
 
 A summary of the projects that I've worked on in the past, or am working on at the moment, for the design, development, and manufacture of these devices:
@@ -50,6 +51,7 @@ A summary of the projects that I've worked on in the past, or am working on at t
 | `Sarthe` | :one: | Convolutional neural networks for vertical and high oblique imagery. | `Active` |
 | `Vosges` | :two: | Personal autonomous reconnaissance observer device design and manufacturing. | `Active` |
 | `Yonne` | :two: | Autonomous GNSS clock. | `Active` |
+-->
 
 ### :information_source: SELECTED REFERENCES &ndash;
 
