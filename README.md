@@ -13,7 +13,7 @@
 ``` -->                         
 
 
-I design and build software, firmware, and hardware. My focus is on creating autonomous systems that strengthen human decision-making by streamlining the intelligence cycle, a process akin to OODA loops or business decision-making frameworks. It covers direction (setting clear objectives), collection (gathering relevant data), analysis (merging and interpreting information), and dissemination (sharing actionable insights). My work ensures humans stay central, guiding tech to amplify their choices.
+I design and build software, firmware, and hardware. My focus is on creating autonomous systems that strengthen human decision-making by streamlining the intelligence cycle and other decision cycles such as OODA loops or PDCA cycles. These autonomous systems cover direction (setting clear objectives), collection (gathering relevant data), processing, (collating, analysing and interpreting information), and dissemination (producing and sharing actionable insights). My work ensures humans stay central, guiding tech to amplify their choices.
 
 The [Paro](https://github.com/cpknight/Paro) devices handle missions for data collection and real-time analysis, assigned through the direction process. They’re built to be durable yet affordable, deployable at scale in tough environments. The cloud-based platform at [reconnaissance.services](https://reconnaissance.services) integrates the full cycle—defining objectives, collecting data, analyzing it, and sharing results—with direction as the critical starting point to align every step.
 
