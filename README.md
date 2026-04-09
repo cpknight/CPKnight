@@ -1,3 +1,16 @@
+
+**I am a product designer who sees the big picture — or at least tries to**, in an age when most people prefer the small one. I turn ideas into actual hardware devices that look at their surroundings and send back insights people and systems can actually use. Most of them rely on algorithms and AI models to solve concrete problems. You will find them in factories, where they help run processes automatically, and in the field, where they do reconnaissance. They’re sturdy enough to take a beating and often cheaper than the usual alternatives. **My aim is simple: the design should be clear and logical, and the device should work without pointless extras.**
+
+# My Designs
+
+You can get your hands on many of my devices right away:
+
+- Some I release as open source hardware, with full documentation, files, and reproduction rights posted on here on [GitHub](https://github.com/cpknight/projects). Manufactured sample units of these projects sit in the [Tarn Project's Sample Store](https://tarn.parts/store/), which also occasionally carries samples of interesting third-party open source projects.
+
+- I also offer many designs for licensing — on either an exclusive or non-exclusive basis. Datasheets live on the [Tarn Project's Website](https://tarn.parts/datasheets/), and you can buy manufactured sample units from the [Sample Store](https://tarn.parts/store/). If you want to talk licensing, feel free to [contact me](https://tarn.parts/contact).
+
+- I take on custom commissions and consulting work as well. These usually come with full assignment of the resulting intellectual property. Where a design has been exclusively licensed — or created through commission or consulting — what you see and what you can buy is entirely up to the licensee or assignee. That is their call, not mine.
+
 <!-- ```
       _________    _________    ____  ___                __                 ___           ___
      /  ______/\  /  ____  /\  /   /\/  /\              /_/\               /  /\         /  /\ 
@@ -12,6 +25,7 @@
                                                           \____\/
 ``` -->                         
 
+<!--
 
 I design and build software, firmware, and hardware. My focus is on creating autonomous systems that strengthen human decision-making by streamlining the [intelligence cycle](https://usnwc.libguides.com/c.php?g=494120&p=3381427) and other decision-making frameworks such as [OODA loops](https://fs.blog/ooda-loop/) or [PDCA cycles](https://asq.org/quality-resources/pdca-cycle). My autonomous support systems cover _direction_ (setting clear objectives), _collection_ (gathering relevant data and collating results), _processing_ (analyzing and interpreting information), and _dissemination_ (producing and sharing actionable insights and generating feedback). My work ensures humans stay central, guiding tech to amplify their choices. 
 
@@ -23,3 +37,5 @@ My [projects and repositories](https://github.com/cpknight/projects) explore emb
 
 | ![0](content/device-inspired-image-by-grok.jpg) | ![1](content/inspired-image-by-grok.jpg) |
 | :-----------------: | :-----------------: | 
+
+-->
