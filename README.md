@@ -15,6 +15,12 @@ You can get your hands on many of my devices right away:
 
 - I take on custom commissions and consulting work as well. These usually come with full assignment of the resulting intellectual property. Where a design has been exclusively licensed — or created through commission or consulting — what you see and what you can buy is entirely up to the licensee or assignee. That is their call, not mine.
 
+## :factory: My Production System
+
+The [Tarn Project](https://tarn.parts) is building a production system for people who are tired of waiting on distant factories and fragile global supply chains. Called the **Tarn Production System** (TPS), it is a modular microfactory designed so that a single person can achieve meaningful output — more than prototype volumes, but well short of mass production. Instead of demanding huge capital, dedicated buildings, and full-time staff, TPS packs the entire manufacturing sequence into compact, reconfigurable cells covering design, electronics, additive manufacturing, assembly, packaging, and distribution. At its core sits a self-hosted management system that keeps all critical data and control firmly under local authority.
+
+The real point of Tarn is not just making things, but making them intelligently. Product design is baked into the workflow, forcing every decision to respect the actual constraints and strengths of the production cells. The system starts simple in a workshop (TPS 1.0, c. 2026), then evolves toward greater portability and resilience with standardized cells that can be arranged in workshops, vehicles, shipping containers, or tighter spaces. It grows rugged for harsh environments (TPS 3.0, c. 2028) and keeps its eyes on the long game — perhaps even orbit, the lunar surface, or Mars (TPS 4.0, c. 2030+). Built for high-mix, low-volume work, TPS is intended for sturdy, cost-conscious devices that sense, process, and deliver actionable insights. In short, Tarn is a deliberate step toward manufacturing that is smaller, tougher, and far less dependent on the usual machinery of centralized industry — the kind of system one might eventually want to run for oneself.
+
 <!-- ```
       _________    _________    ____  ___                __                 ___           ___
      /  ______/\  /  ____  /\  /   /\/  /\              /_/\               /  /\         /  /\ 
