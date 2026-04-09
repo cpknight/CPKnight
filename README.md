@@ -9,7 +9,7 @@ I turn ideas into actual hardware devices that look at their surroundings and se
 
 You can get your hands on many of my devices right away:
 
-- Some I release as open source hardware, with full documentation, files, and reproduction rights posted on here on [GitHub](https://github.com/cpknight/projects). Manufactured sample units of these projects sit in the [Tarn Project's Sample Store](https://tarn.parts/store/), which also occasionally carries samples of interesting third-party open source projects.
+- Some I release as open source hardware, with full documentation, files, and reproduction rights posted on here on [GitHub](https://github.com/cpknight/projects). Manufactured sample units of several of these projects sit in the [Tarn Project's Sample Store](https://tarn.parts/store/), which also occasionally carries samples of interesting third-party open source projects.
 
 - I also offer many designs for licensing — on either an exclusive or non-exclusive basis. Datasheets live on the [Tarn Project's Website](https://tarn.parts/datasheets/), and you can buy manufactured sample units from the [Sample Store](https://tarn.parts/store/). If you want to talk licensing, feel free to [contact me](https://tarn.parts/contact).
 
