@@ -5,7 +5,7 @@ I turn ideas into actual hardware devices that look at their surroundings and se
 
 **My aim is simple: the design should be clear and logical, and the device should work without pointless extras.**
 
-# My Designs
+## :triangular_ruler: My Designs
 
 You can get your hands on many of my devices right away:
 
