@@ -15,6 +15,12 @@ You can get your hands on many of my devices right away:
 
 - I take on custom commissions and consulting work as well. These usually come with full assignment of the resulting intellectual property. Where a design has been exclusively licensed — or created through commission or consulting — what you see and what you can buy is entirely up to the licensee or assignee. That is their call, not mine.
 
+## :brain: My Main Effort
+
+The [Vilaine](https://tarn.parts/vilaine) is my effort to bring distributed, edge-native intelligence to hardware. Drawing from the nervous systems of coleoid cephalopods—where most neurons live in the arms for autonomous local sensing and action—Vilaine embeds real intelligence at the edge instead of relying on constant central oversight.
+
+At its heart are compact **Coleoid Pods**. _Coleoid Nexus_ pods act as intelligent observers, fusing sensor data, spotting patterns, and escalating only meaningful summaries or anomalies. _Coleid Impulse_ pods add autonomous actuation, triggering responses in real time while staying aligned with higher-level goals. This approach cuts bandwidth, boosts responsiveness, and creates resilient, low-power systems for factories, field reconnaissance, soft grippers, sensor networks, swarms, underwater vehicles, and more. These embody my design principles: clear architecture, no fluff, and intelligence placed exactly where it delivers value.
+
 ## :factory: My Production System
 
 The [Tarn Project](https://tarn.parts) is building a production system for people who are tired of waiting on distant factories and fragile global supply chains. Called the **Tarn Production System** (TPS), it is a modular microfactory designed so that a single person can achieve meaningful output — more than prototype volumes, but well short of mass production. Instead of demanding huge capital, dedicated buildings, and full-time staff, TPS packs the entire manufacturing sequence into compact, reconfigurable cells covering design, electronics, additive manufacturing, assembly, packaging, and distribution. At its core sits a self-hosted management system that keeps all critical data and control firmly under local authority.
