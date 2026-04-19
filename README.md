@@ -1,5 +1,5 @@
 
-**I am a product designer who sees the big picture — or at least tries to**, in an age when most people prefer the small one. 
+**I am a tech designer and builder who sees the big picture** — or at least tries to, in an age when most people prefer the small one. 
 
 I turn ideas into actual hardware devices that look at their surroundings and send back insights people and systems can actually use. Most of them rely on algorithms and AI models to solve concrete problems. You will find them in factories, where they help run processes automatically, and in the field, where they do reconnaissance. They’re sturdy enough to take a beating and often cheaper than the usual alternatives. 
 
