@@ -15,9 +15,9 @@ You can get your hands on many of my devices right away:
 
 - I take on custom commissions and consulting work as well. These usually come with full assignment of the resulting intellectual property. Where a design has been exclusively licensed — or created through commission or consulting — what you see and what you can buy is entirely up to the licensee or assignee. That is their call, not mine.
 
-## :brain: My Main Effort
+## :brain: My Main Tech
 
-The [Vilaine](https://tarn.parts/vilaine) is my effort to bring distributed, edge-native intelligence to hardware. Drawing from the nervous systems of coleoid cephalopods—where most neurons live in the arms for autonomous local sensing and action—Vilaine embeds real intelligence at the edge instead of relying on constant central oversight.
+The [Vilaine Project](https://tarn.parts/vilaine) is my effort to bring distributed, edge-native intelligence to hardware. Drawing from the nervous systems of coleoid cephalopods—where most neurons live in the arms for autonomous local sensing and action—Vilaine embeds real intelligence at the edge instead of relying on constant central oversight.
 
 At its heart are compact **Coleoid Pods**. _Coleoid Nexus_ pods act as intelligent observers, fusing sensor data, spotting patterns, and escalating only meaningful summaries or anomalies. _Coleid Impulse_ pods add autonomous actuation, triggering responses in real time while staying aligned with higher-level goals. This approach cuts bandwidth, boosts responsiveness, and creates resilient, low-power systems for factories, field reconnaissance, soft grippers, sensor networks, swarms, underwater vehicles, and more. These embody my design principles: clear architecture, no fluff, and intelligence placed exactly where it delivers value.
 
